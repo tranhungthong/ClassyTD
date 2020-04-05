@@ -1,5 +1,5 @@
 # Welcome to ClassyTD
-
+[![N|Solid](https://www.upsieutoc.com/images/2020/04/05/avatar.jpg)](https://facebook.com/ClassyTD)
 ## Download truyện tranh
 ■ Tải truyện từ trang nhattruyen.com
  - Mở file ClassyTD.exe
