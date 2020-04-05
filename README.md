@@ -10,4 +10,3 @@
  - Mở file ClassyTD.exe
  - Mục Link truyện: Ví dụ download toàn bộ chương của truyện conan. Copy link danh sách ([https://sakuramanga.org/japanese-manga/tham-tu-lung-danh-conan-tieng-nhat/](https://sakuramanga.org/japanese-manga/tham-tu-lung-danh-conan-tieng-nhat/)) các chương truyện đó và past vào ô Link truyện
  - Mục website chọn sakura
-0 comments on commit e174f7b
